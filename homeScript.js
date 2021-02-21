@@ -7,7 +7,7 @@ $(document).ready(function(){
 		}
 	});
 
-	/*rtoggle menu or navba*/
+	/*toggle menu or navbar*/
 	$('.menu-btn').click(function(){
         $('.navbar .menu').toggleClass("active");
         $('.menu-btn i').toggleClass("active");
